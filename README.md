@@ -1,9 +1,17 @@
 ### Hi there 👋
 
+I'm a Software Engineer based in São Paulo passionate about learning and teamwork
+
+- 🔭 currently working on a social media project as an academic project
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dlopeiro)](https://git.io/streak-stats)
+
 <!--
 **dlopeiro/dlopeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
