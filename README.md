@@ -2,7 +2,7 @@
 
 I'm a Software Engineer based in São Paulo passionate about learning and teamwork
 
-- 🔭 currently working on a social media project as an academic project
+- 🔭 currently working on a minimalist social media as an academic project
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dlopeiro)](https://git.io/streak-stats)
